@@ -201,6 +201,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { Send, Bot, User, Sparkles, MessageCircle, X, Minus } from "lucide-react";
+import { getChatResponse } from "../api/openai"; 
 
 const Chatbot = () => {
   const [messages, setMessages] = useState([
@@ -217,14 +218,28 @@ const Chatbot = () => {
     if (isOpen) scrollToBottom();
   }, [messages, isOpen]);
 
+  // const sendMessage = async () => {
+  //   if (!input.trim()) return;
+  //   setMessages((prev) => [...prev, { text: input, sender: "user" }]);
+  //   setInput("");
+  //   setTimeout(() => {
+  //     setMessages((prev) => [...prev, { text: "Thank you for your message!", sender: "bot" }]);
+  //   }, 1000);
+  // };
   const sendMessage = async () => {
-    if (!input.trim()) return;
-    setMessages((prev) => [...prev, { text: input, sender: "user" }]);
-    setInput("");
-    setTimeout(() => {
-      setMessages((prev) => [...prev, { text: "Thank you for your message!", sender: "bot" }]);
-    }, 1000);
-  };
+  if (!input.trim()) return;
+
+  const userMessage = input.trim();
+  setMessages((prev) => [...prev, { text: userMessage, sender: "user" }]);
+  setInput("");
+
+  try {
+    const botResponse = await getChatResponse(userMessage);
+    setMessages((prev) => [...prev, { text: botResponse, sender: "bot" }]);
+  } catch (error) {
+    setMessages((prev) => [...prev, { text: "Sorry, something went wrong.", sender: "bot" }]);
+  }
+};
 
   const handleKeyPress = (e) => {
     if (e.key === "Enter" && !e.shiftKey) {

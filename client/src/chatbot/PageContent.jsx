@@ -18,7 +18,7 @@ const PageContent = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-gray-900 via-indigo-900 to-purple-900 p-6 text-white">
       <div className="max-w-xl text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-pink-400 to-purple-400 drop-shadow-lg">
-          Welcome to Your AI Assistant
+          Lucidya AI Assistant
         </h1>
         <p className="mt-4 text-lg text-gray-300 leading-relaxed">
           I’m here to assist you with anything you need.  

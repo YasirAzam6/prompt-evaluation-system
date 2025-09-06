@@ -1,0 +1,522 @@
+[
+  {
+    "strategy": "A",
+    "query": "Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "response": "Sure! Here’s how to set up OmniServe for automatic support ticket handling:\n\n1. **Connect Channels**: Link all your customer communication channels (email, chat, social media) to OmniServe.\n2. **Set Rules**: Define rules for ticket categorization and prioritization based on keywords or customer details.\n3. **Automate Responses**: Create templates for common issues to allow OmniServe to respond automatically. \n\nWould you like more detailed instructions on any step?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:14:36.653Z"
+  },
+  {
+    "strategy": "A",
+    "query": "How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "response": "To connect Lucidya Omnichannel with both WhatsApp and Twitter, follow these steps:\n\n1. **Access Settings:** Log in to Lucidya and go to the Omnichannel settings.\n2. **Connect WhatsApp and Twitter:** Follow the prompts to connect each platform. You'll need to authorize access for both WhatsApp and Twitter.\n3. **Verify Integration:** Ensure both platforms are successfully integrated by checking for incoming messages in Lucidya.\n\nDo you have access to your account settings?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:14:41.164Z"
+  },
+  {
+    "strategy": "A",
+    "query": "Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "response": "Yes, Social Listening can send alerts for negative mentions of your brand. To enable this:\n\n1. Set up keywords related to your brand in the Social Listening tool.\n2. Configure alert settings to notify you when negativity is detected.\n3. Choose your preferred notification method (email, SMS, etc.).\n\nWould you like help setting this up?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:14:43.952Z"
+  },
+  {
+    "strategy": "A",
+    "query": "In Profiles, how can I identify which customers are most likely to churn next month?",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: In Profiles, how can I identify which customers are most likely to churn next month?",
+    "response": "To identify customers likely to churn using Profiles, follow these steps:\n\n1. **Analyze Behavior**: Look for patterns such as reduced activity or negative feedback from customer interactions.\n2. **Review History**: Check for past complaints or unresolved issues.\n3. **Segment Data**: Use customer profiles to find those with similar characteristics who have churned before.\n\nDo you have access to any specific data or customer interactions that can help refine these steps?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:14:47.851Z"
+  },
+  {
+    "strategy": "A",
+    "query": "What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "response": "Creating a quick survey in Lucidya is for gathering immediate feedback with a few simple questions, ideal for capturing general sentiment quickly. A detailed survey, on the other hand, involves more in-depth questions to gather comprehensive insights and understand specific aspects of customer experience. \n\nWhich type of feedback are you looking to gather?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:14:52.250Z"
+  },
+  {
+    "strategy": "A",
+    "query": "كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "response": "لإعداد OmniServe للرد التلقائي على طلبات الدعم، يمكنك اتباع الخطوات التالية:\n\n1. **تحديد الأسئلة الشائعة**: اجمع الأسئلة الأكثر شيوعًا التي يتلقاها فريق الدعم.\n2. **إعداد الردود التلقائية**: قم بإنشاء ردود جاهزة لكل سؤال باستخدام منصة OmniServe.\n3. **اختبار النظام**: تأكد من أن الردود التلقائية تعمل بشكل صحيح وأنها تقدم المعلومات المطلوبة للعملاء.\n\nهل تحتاج إلى مساعدة إضافية في أي خطوة؟",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:14:56.281Z"
+  },
+  {
+    "strategy": "A",
+    "query": "هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "response": "نعم، يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر. لربط القنوات، اتبع هذه الخطوات:\n\n1. حدد القنوات التي ترغب في ربطها مثل واتساب وتويتر.\n2. استخدم واجهة Lucidya Omnichannel لإعداد التكامل مع كل قناة.\n3. تابع التعليمات لتنشيط القنوات والتأكد من أنها متصلة بشكل صحيح.\n\nهل تحتاج إلى مساعدة في خطوة معينة؟",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:00.750Z"
+  },
+  {
+    "strategy": "A",
+    "query": "أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "response": "لتفعيل التنبيهات الفورية للتعليقات السلبية عبر Social Listening:\n\n1. قم بالدخول إلى لوحة التحكم الخاصة بـ Social Listening.\n2. ابحث عن إعدادات التنبيهات أو الإشعارات.\n3. قم بإعداد الكلمات المفتاحية السلبية وتفعيل خيار التنبيهات الفورية عند رصدها.\n\nهل تحتاج مساعدة إضافية في أي خطوة؟",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:03.290Z"
+  },
+  {
+    "strategy": "A",
+    "query": "في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "response": "أفضل طريقة لاكتشاف العملاء المعرّضين لترك الخدمة في Profiles هي:\n\n1. تحليل البيانات: استخدم بيانات العملاء لتحديد الأنماط والسلوكيات التي تشير إلى احتمال ترك الخدمة.\n2. متابعة التفاعلات: راقب انخفاض التفاعل مع المنتجات أو الخدمات.\n3. تقييم الرضا: استخدم مؤشرات مثل انخفاض مستوى الرضا أو الشكاوى المتكررة.\n\nهل تريد تفاصيل أكثر عن أي خطوة؟",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:06.423Z"
+  },
+  {
+    "strategy": "A",
+    "query": "ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "prompt": "You are a helpful assistant. Always respond in the same language as the user. Use simple, non-technical language. Keep answers short and actionable (<= 80 words). If steps are needed, give no more than 3 numbered steps. If information is missing, ask one clarifying question.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser Question: ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "response": "الفرق بين الاستبيان القصير والتفصيلي يكمن في الهدف وعمق المعلومات:\n\n1. **استبيان قصير**: يهدف لجمع انطباعات سريعة ومباشرة، يحتوي على عدد قليل من الأسئلة، ويكون سهل وسريع للإجابة.\n   \n2. **استبيان تفصيلي**: يهدف لجمع بيانات معمقة وتحليل شامل، يحتوي على أسئلة متعددة ومتنوعة، ويحتاج إلى وقت أطول للإجابة.\n\nما هو هدفك من الاستبيان؟",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:15:09.927Z"
+  },
+  {
+    "strategy": "B",
+    "query": "Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "response": "Short answer: Set up OmniServe to auto-handle tickets by integrating channels and defining rules.\n\nSteps:\n1. Integrate your communication channels (email, chat) with OmniServe.\n2. Define rules for automatic ticket creation and routing.\n3. Set automated responses for common issues.\n\nTip: Use predefined templates for frequent questions to save time.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:12.804Z"
+  },
+  {
+    "strategy": "B",
+    "query": "How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "response": "Short answer: Connect both platforms through Lucidya Omnichannel's integration settings.\n\nSteps:\n1. Open Lucidya Omnichannel dashboard.\n2. Go to Integration settings.\n3. Select WhatsApp and follow the connection instructions.\n4. Select Twitter and follow the connection instructions.\n\nTip: Ensure you have the necessary permissions and API keys for both platforms.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:15.581Z"
+  },
+  {
+    "strategy": "B",
+    "query": "Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "response": "Short answer: Yes, Social Listening can send alerts for negative mentions.\n\nSteps:\n1. Log in to your Social Listening dashboard.\n2. Go to the 'Alerts' settings section.\n3. Set up a new alert for negative sentiment.\n4. Specify keywords and conditions for triggering alerts.\n5. Save your settings to start receiving alerts.\n\nTip: Use specific keywords related to common complaints to refine alerts.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:18.043Z"
+  },
+  {
+    "strategy": "B",
+    "query": "In Profiles, how can I identify which customers are most likely to churn next month?",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: In Profiles, how can I identify which customers are most likely to churn next month?",
+    "response": "Short answer: Use Profiles to analyze customer data and identify churn indicators.\n\nSteps:\n1. Access the Profiles feature.\n2. Review customer activity and engagement data.\n3. Look for signs like reduced interaction or negative feedback.\n4. Use insights to predict potential churn.\n\nTip: Focus on customers with declining engagement for targeted retention efforts.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:20.524Z"
+  },
+  {
+    "strategy": "B",
+    "query": "What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "response": "Short answer: Quick surveys are brief and straightforward, while detailed surveys are more comprehensive and in-depth.\n\nSteps:\n1. Quick Survey: Focus on few questions for immediate feedback.\n2. Detailed Survey: Use multiple sections and questions for extensive insights.\n\nTip: Use quick surveys for immediate responses and detailed surveys for comprehensive analysis.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:15:22.921Z"
+  },
+  {
+    "strategy": "B",
+    "query": "كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "response": "Short answer: إعداد OmniServe للرد التلقائي يمكن أن يتم بخطوات بسيطة.\n\nSteps:\n1. ادخل إلى إعدادات OmniServe واختر \"إعداد الرد التلقائي\".\n2. اختر الشروط المحددة للردود التلقائية مثل الكلمات المفتاحية أو نوع الطلب.\n3. قم بتحديد الرسالة التلقائية المناسبة واحفظ التغييرات.\n\nTip: استخدم كلمات مفتاحية شائعة لضمان تفعيل الردود التلقائية بفعالية.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:27.096Z"
+  },
+  {
+    "strategy": "B",
+    "query": "هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "response": "Short answer: نعم، يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر.\n\nSteps:\n1. تسجيل الدخول إلى منصة Lucidya.\n2. الانتقال إلى إعدادات Omnichannel.\n3. اختيار القناة المراد ربطها (مثل واتساب أو تويتر).\n4. اتباع التعليمات لإدخال معلومات الحساب وتفعيل الربط.\n\nTip: تأكد من وجود صلاحيات إدارة الحسابات المراد ربطها لضمان نجاح العملية.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:31.541Z"
+  },
+  {
+    "strategy": "B",
+    "query": "أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "response": "Short answer: يمكنك تفعيل التنبيهات الفورية للتعليقات السلبية ضمن إعدادات Social Listening.\n\nSteps:\n1. قم بتسجيل الدخول إلى منصة Lucidya.\n2. انتقل إلى قسم Social Listening.\n3. افتح إعدادات التنبيهات.\n4. اختر الكلمات المفتاحية السلبية المتعلقة بعلامتك التجارية.\n5. فعل التنبيهات الفورية للبريد الإلكتروني أو الهاتف.\n\nTip: استخدم كلمات مفتاحية متنوعة لضمان التقاط جميع التعليقات السلبية المحتملة.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:34.673Z"
+  },
+  {
+    "strategy": "B",
+    "query": "في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "response": "Short answer: استخدم بيانات العملاء والمؤشرات لتحليل السلوك وتحديد العملاء المعرضين للترك.\nSteps:\n1. جمع بيانات العملاء الحالية مثل الاستخدام والشكاوى والتفاعل.\n2. تحليل البيانات للعثور على أنماط سلبية مثل انخفاض الاستخدام.\n3. استخدم نماذج توقعية لتحديد العملاء الأكثر عرضة للترك.\nTip: راقب التغيرات المفاجئة في سلوك العملاء لتحديد مشاكل مبكرة.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:38.240Z"
+  },
+  {
+    "strategy": "B",
+    "query": "ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "prompt": "System: You are a support assistant. Important rules:\n1) Reply in the user's language.\n2) Keep explanations simple and short.\n3) Use this output format ONLY:\n   Short answer: <one-sentence summary>\n   Steps: <numbered steps if needed>\n   Tip: <1 short tip or example>\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "response": "جواب مختصر: الاستبيان القصير يجمع انطباعات عامة بسرعة، بينما الاستبيان التفصيلي يجمع بيانات معمقة وتفصيلية.\n\nخطوات:\n1. حدد الهدف من الاستبيان.\n2. اختر نوع الاستبيان بناءً على مستوى التفاصيل المطلوبة.\n3. صمم الأسئلة بحيث تكون مباشرة أو مفتوحة حسب الحاجة.\n\nنصيحة: استخدم الاستبيانات القصيرة للتقييم السريع والاستبيانات التفصيلية لفهم عميق.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:15:41.519Z"
+  },
+  {
+    "strategy": "C",
+    "query": "Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.\nA:",
+    "response": "A: Short answer: Configure OmniServe's automation settings to route and respond to tickets.\n\n   Steps:\n    1. Access OmniServe settings and find the \"Automation\" section.\n    2. Set rules to assign tickets to specific agents or teams automatically.\n    3. Create templates for common inquiries to enable automatic responses.\n\n   Tip: Regularly review and update rules to improve efficiency.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:15:48.630Z"
+  },
+  {
+    "strategy": "C",
+    "query": "How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?\nA:",
+    "response": "A: Short answer: Use the integration settings to connect both platforms.\n   Steps:\n    1. Go to Integration Settings in Lucidya Omnichannel.\n    2. Select \"Add Platform\" and choose WhatsApp.\n    3. Follow the prompts to authorize and connect your WhatsApp account.\n    4. Repeat the process for Twitter by selecting \"Add Platform\" again and choosing Twitter.\n    5. Authorize and connect your Twitter account.\n   Tip: Ensure you have the necessary permissions and account details ready for both platforms.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:15:51.599Z"
+  },
+  {
+    "strategy": "C",
+    "query": "Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?\nA:",
+    "response": "A: Short answer: Yes, Social Listening can send alerts for negative mentions.\n   Steps:\n    1. Open the Social Listening dashboard.\n    2. Go to \"Alerts\" settings.\n    3. Set keywords related to your brand and adjust the sentiment to negative.\n    4. Enable notifications to receive alerts.\n   Tip: Customize alert frequency to avoid too many notifications.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:15:54.273Z"
+  },
+  {
+    "strategy": "C",
+    "query": "In Profiles, how can I identify which customers are most likely to churn next month?",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: In Profiles, how can I identify which customers are most likely to churn next month?\nA:",
+    "response": "A: Short answer: Use predictive analytics within Profiles to spot potential churners.\n   Steps:\n    1. Navigate to Profiles in the dashboard.\n    2. Utilize predictive analytics tools to analyze customer engagement and interaction data.\n    3. Look for patterns indicative of churn, such as decreased activity.\n   Tip: Focus on customers with declining engagement and offer personalized interventions.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:15:59.268Z"
+  },
+  {
+    "strategy": "C",
+    "query": "What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: What’s the difference between creating a quick survey and a detailed survey inside Lucidya?\nA:",
+    "response": "A: Short answer: A quick survey gathers basic feedback fast, while a detailed survey collects in-depth insights.\n\nSteps:\n1. Quick Survey:\n   - Focus on a few essential questions.\n   - Designed for rapid responses and minimal time commitment from participants.\n\n2. Detailed Survey:\n   - Includes comprehensive questions covering various aspects.\n   - Aims to gather thorough insights for detailed analysis.\n\nTip: Use quick surveys for immediate feedback and detailed surveys for more strategic insights.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:16:02.268Z"
+  },
+  {
+    "strategy": "C",
+    "query": "كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟\nA:",
+    "response": "إجابة قصيرة: استخدم إعدادات OmniServe لتكوين ردود تلقائية على طلبات الدعم.\nخطوات:\n1. افتح OmniServe وانتقل إلى \"الإعدادات\".\n2. اختر \"الردود التلقائية\" وقم بتكوين الردود المناسبة لطلبات الدعم.\n3. احفظ التغييرات وفعّل الإعدادات.\n\nتلميح: قم بتجربة الردود للتأكد من فعاليتها قبل تفعيلها بشكل كامل.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:05.599Z"
+  },
+  {
+    "strategy": "C",
+    "query": "هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟\nA:",
+    "response": "إجابة قصيرة: نعم، يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر.\n\nخطوات:\n1. قم بتسجيل الدخول إلى لوحة تحكم Lucidya.\n2. اذهب إلى إعدادات Omnichannel.\n3. اختر \"إضافة قناة\" وحدد القنوات التي ترغب في ربطها مثل واتساب وتويتر.\n4. اتبع التعليمات لإدخال المعلومات المطلوبة لكل قناة وربطها بالحسابات الصحيحة.\n\nتلميح: تأكد من توفر صلاحيات الإدارة للحسابات التي ترغب في ربطها لضمان نجاح عملية الربط.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:10.919Z"
+  },
+  {
+    "strategy": "C",
+    "query": "أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟\nA:",
+    "response": "إجابة قصيرة: انتقل إلى إعدادات Social Listening وفعّل التنبيهات الفورية للتعليقات السلبية.\n\nخطوات:\n1. افتح إعدادات Social Listening في لوحة التحكم.\n2. ابحث عن خيار \"التنبيهات الفورية\" أو \"الإشعارات\".\n3. فعّل خيار التنبيهات للتعليقات السلبية.\n\nتلميح: تأكد من ضبط إعدادات الإشعارات في جهازك لاستقبال التنبيهات بشكل صحيح.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:14.650Z"
+  },
+  {
+    "strategy": "C",
+    "query": "في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟\nA:",
+    "response": "إجابة قصيرة: استخدم البيانات المتاحة في Profiles لتحليل أنماط الاستخدام وتحديد العملاء ذوي التفاعل المنخفض.\n\nخطوات:\n1. افتح Profiles وحدد العملاء الذين لديهم نشاط منخفض في الفترة الأخيرة.\n2. قم بتحليل تاريخ التفاعل والشراء لتحديد أي تغييرات في السلوك.\n3. استخدم البيانات لإنشاء قائمة بالعملاء المعرّضين لترك الخدمة.\n\nتلميح: أرسل استطلاع سريع لهؤلاء العملاء للحصول على ملاحظاتهم وتحسين تجربتهم.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:18.237Z"
+  },
+  {
+    "strategy": "C",
+    "query": "ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "prompt": "You are a polite, clear support assistant. Answer in the user's language. Avoid jargon.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nExample 1 (English)\nQ: How do I reset my password?\nA: Short answer: Go to Settings > Account > Reset password.\n   Steps:\n    1. Open Settings -> Account.\n    2. Click \"Reset password\" and follow email link.\n   Tip: Check spam if you don't see the reset email.\n\nExample 2 (Arabic)\nQ: كيف أغير اللغة في التطبيق؟\nA: إجابة قصيرة: افتح الإعدادات ثم خيار اللغة واختر العربية.\n   خطوات:\n    1. اذهب للإعدادات.\n    2. اختر \"اللغة\" وحدد العربية.\n   تلميح: أعد تشغيل التطبيق إذا لم تتغير الواجهة.\n\nNow answer the user question below in the same format:\nQ: ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل\nA:",
+    "response": "سؤال: ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة؟\n\nإجابة قصيرة: الاستبيان القصير يجمع ردود فورية وسريعة، بينما الاستبيان التفصيلي يوفر فهمًا معمقًا وأكثر شمولية.\n\nخطوات:\n1. **استبيان قصير:**\n   - عادةً يتكون من أسئلة محدودة ومباشرة.\n   - يهدف للحصول على ردود سريعة وغير معقدة.\n   - يستخدم لاتخاذ قرارات سريعة أو فهم سريع لانطباعات العملاء.\n\n2. **استبيان تفصيلي:**\n   - يحتوي على أسئلة أكثر تعمقًا وتفصيلًا.\n   - يهدف لجمع بيانات معمقة وتحليل شامل.\n   - يستخدم للحصول على رؤى معمقة ودقيقة حول تجربة العملاء.\n\nتلميح: اختر نوع الاستبيان بناءً على هدفك واحتياجاتك من البيانات.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:16:22.709Z"
+  },
+  {
+    "strategy": "D",
+    "query": "Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.",
+    "response": "Sure! Here’s how you can set up OmniServe to handle support tickets automatically:\n\n1. **Integrate Communication Channels**: Connect all your customer communication channels (email, chat, social media) to OmniServe. This centralizes incoming tickets for streamlined management.\n   \n2. **Configure Automation Rules**: Set up rules to automatically categorize, prioritize, and assign tickets to the appropriate team members based on keywords or other criteria.\n\n3. **Monitor and Adjust**: Regularly review ticket handling performance and adjust rules as needed to improve response times and resolution efficiency.\n\nWould you like more detailed guidance on any of these steps?",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:26.265Z"
+  },
+  {
+    "strategy": "D",
+    "query": "How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?",
+    "response": "To connect Lucidya Omnichannel with both WhatsApp and Twitter, you need to integrate each platform within the Omnichannel settings. \n\n1. **WhatsApp Integration:**\n   - Access the Omnichannel dashboard.\n   - Navigate to the integrations section.\n   - Select WhatsApp and follow the prompts to authenticate and link your account.\n\n2. **Twitter Integration:**\n   - In the same integrations section, select Twitter.\n   - Authenticate your Twitter account and provide necessary permissions.\n\nOnce both platforms are linked, Lucidya Omnichannel will start gathering and analyzing data from these channels. \n\nExample: After integration, you can manage customer interactions from WhatsApp and Twitter in one unified dashboard.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:16:30.389Z"
+  },
+  {
+    "strategy": "D",
+    "query": "Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?",
+    "response": "Yes, Social Listening can send you alerts for negative mentions of your brand. You can enable this feature by setting up keyword tracking and sentiment analysis. Here's how you can do it:\n\n1. Log in to your Social Listening dashboard.\n2. Go to the \"Alerts\" section.\n3. Set up alerts for specific keywords or phrases related to your brand.\n4. Configure the sentiment settings to focus on negative mentions.\n5. Save your settings to start receiving real-time alerts.\n\nExample: If someone tweets negatively about your brand, you will receive an alert, allowing you to respond promptly.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:33.316Z"
+  },
+  {
+    "strategy": "D",
+    "query": "In Profiles, how can I identify which customers are most likely to churn next month?",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: In Profiles, how can I identify which customers are most likely to churn next month?",
+    "response": "To identify customers most likely to churn using the Profiles feature, you can analyze customer behavior patterns and engagement levels. Here are some steps:\n\n1. **Data Analysis**: Review customer interaction histories, purchase frequencies, and engagement levels.\n2. **Behavior Patterns**: Identify declining engagement, reduced purchase frequency, or negative feedback.\n3. **Segmentation**: Segment customers based on risk factors like inactivity or poor feedback.\n4. **Predictive Analytics**: Utilize any predictive analytics tools within the platform to forecast churn.\n\n**Example**: If a customer has not interacted with your brand in the last month, reduced their purchase frequency, and left negative feedback, they may be at risk of churning.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 0.9615384615384616,
+      "steps": 1,
+      "totalScore": 0.9884615384615384
+    },
+    "timestamp": "2025-09-05T14:16:36.968Z"
+  },
+  {
+    "strategy": "D",
+    "query": "What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: What’s the difference between creating a quick survey and a detailed survey inside Lucidya?",
+    "response": "A quick survey in Lucidya is designed for fast feedback collection with minimal questions, focusing on obtaining essential insights quickly. A detailed survey, on the other hand, includes more questions and in-depth analysis to gather comprehensive feedback and generate detailed insights.\n\n**Example:**\n- **Quick Survey:** \"Rate your satisfaction from 1 to 5.\"\n- **Detailed Survey:** \"Rate your satisfaction from 1 to 5 and explain your reason. What improvements would you like to see?\"",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0.6666666666666666,
+      "totalScore": 0.8666666666666667
+    },
+    "timestamp": "2025-09-05T14:16:39.785Z"
+  },
+  {
+    "strategy": "D",
+    "query": "كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟",
+    "response": "لإعداد OmniServe للرد التلقائي على طلبات الدعم، يمكنك اتباع الخطوات التالية:\n\n1. **تحديد القواعد**: قم بإنشاء قواعد لتصنيف أنواع الطلبات المختلفة وتحديد الردود المناسبة لكل نوع.\n   \n2. **إعداد الردود التلقائية**: قم بكتابة الردود التلقائية المرتبطة بكل قاعدة، للتأكد من أن العملاء يحصلون على المعلومات التي يحتاجونها بسرعة.\n\n3. **تفعيل النظام**: قم بتفعيل النظام للتأكد من أن OmniServe يبدأ في الرد التلقائي على الطلبات وفق القواعد المحددة.\n\nمثال: إذا كان لديك طلب متكرر للحصول على معلومات حول ساعات العمل، يمكنك إعداد قاعدة للرد التلقائي بتلك المعلومات.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:44.277Z"
+  },
+  {
+    "strategy": "D",
+    "query": "هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟",
+    "response": "نعم، يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر. يتم ذلك عن طريق دمج هذه القنوات في النظام، مما يسمح بتجميع وتحليل البيانات من جميع نقاط الاتصال الرقمية. \n\nعلى سبيل المثال، يمكنك إعداد حسابك في Lucidya Omnichannel ليتلقى الرسائل من حساب واتساب الرسمي وحسابك على تويتر، مما يتيح لك مراقبة وتفاعل مع العملاء من خلال منصة واحدة مركزية.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:16:47.009Z"
+  },
+  {
+    "strategy": "D",
+    "query": "أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟",
+    "response": "لتفعيل خاصية التنبيهات الفورية عند ظهور تعليقات سلبية عن علامتك التجارية عبر Social Listening:\n\n1. قم بتسجيل الدخول إلى حسابك في منصة Lucidya.\n2. انتقل إلى قسم Social Listening.\n3. ابحث عن إعدادات التنبيهات أو الإشعارات.\n4. فعل التنبيهات الفورية وحدد نوعية التعليقات التي ترغب في تلقي إشعارات بشأنها، مثل التعليقات السلبية.\n5. احفظ الإعدادات.\n\nسيتم إرسال إشعارات فورية عند الكشف عن أي تعليقات سلبية على علامتك التجارية.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 1,
+      "totalScore": 1
+    },
+    "timestamp": "2025-09-05T14:16:49.849Z"
+  },
+  {
+    "strategy": "D",
+    "query": "في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟",
+    "response": "أفضل طريقة لاكتشاف العملاء المعرّضين لترك الخدمة باستخدام Profiles هي تحليل البيانات السلوكية والتفاعلية للعملاء. يمكنك مراقبة التغييرات في سلوكهم مثل انخفاض التفاعل أو الاستخدام للخدمة، والشكاوى المتكررة، والتغذية الراجعة السلبية. استخدم نماذج التنبؤ بناءً على البيانات المجمعة لإنشاء مؤشرات تنبؤية تساعد في تحديد هؤلاء العملاء بدقة.\n\nمثال: إذا لاحظت تراجعًا مستمرًا في معدل تفاعل العميل مع الخدمة وانخفاضًا في استخدامه لها مقارنةً بالفترة السابقة، فقد يكون هذا مؤشرًا على احتمالية تركه للخدمة.",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:16:53.545Z"
+  },
+  {
+    "strategy": "D",
+    "query": "ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "prompt": "You are a friendly support assistant. Detect the user language and answer in it. If the question is ambiguous or lacks context, ask one clarifying question. Otherwise, give a short clear answer (<= 100 words) and a short example.\n\nLucidya Products Info:\n- OmniServe: Centralizes customer communication for faster resolution and personalized support.\n- Social Listening: Monitors brand and market activity on social media; identifies trends and protects reputation.\n- Omnichannel: Gathers and analyzes customer data across all digital touchpoints (chats, emails, calls, reviews).\n- Profiles: Captures customer data to build unique profiles for retention and personalization.\n- Survey: Analyzes feedback and sentiment to generate actionable insights.\n\nUser: ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل",
+    "response": "الاستبيان القصير يهدف إلى جمع انطباعات سريعة حول موضوع معين، عادةً ما يتكون من عدد قليل من الأسئلة المباشرة. يتم استخدامه للحصول على ردود سريعة وسهلة التحليل. مثال: \"ما درجة رضاك عن خدمتنا من 1 إلى 5؟\"\n\nالاستبيان التفصيلي يهدف للحصول على بيانات معمقة وشاملة. يحتوي على أسئلة متعددة وأحياناً مفتوحة للحصول على فهم أعمق للموضوع. مثال: \"ما هي الجوانب التي تعجبك في خدمتنا؟ وما هي الاقتراحات التي تود إضافتها لتحسين تجربتك؟\"",
+    "score": {
+      "langMatch": 1,
+      "conciseness": 1,
+      "steps": 0,
+      "totalScore": 0.6
+    },
+    "timestamp": "2025-09-05T14:16:57.328Z"
+  }
+]

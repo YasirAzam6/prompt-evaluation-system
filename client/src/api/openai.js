@@ -1,3 +1,4 @@
+
 import axios from 'axios';
 
 const API_URL = import.meta.env.VITE_BACKEND_URL;
@@ -9,9 +10,9 @@ export async function getChatResponse(message) {
     });
 
     return response.data.reply;
+
   } catch (error) {
     console.error("API error:", error.message);
-    return "Sorry, something went wrong.";
-  }
+    return "Sorry, something went wrong.";
+  }
 }
-

@@ -1,0 +1,10 @@
+Explain in 2–3 simple steps how I can set up OmniServe to handle support tickets automatically.
+How do I connect Lucidya Omnichannel with both WhatsApp and Twitter at the same time?
+Can Social Listening send me alerts if people mention my brand negatively? How do I enable that?
+In Profiles, how can I identify which customers are most likely to churn next month?
+What’s the difference between creating a quick survey and a detailed survey inside Lucidya?
+كيف أُعد OmniServe للرد التلقائي على طلبات الدعم بخطوتين أو ثلاث فقط؟
+هل يمكن ربط Lucidya Omnichannel مع قنوات متعددة مثل واتساب وتويتر معًا؟ وكيف يتم ذلك؟
+أرغب باستقبال تنبيهات فورية عند ظهور تعليقات سلبية عن علامتي التجارية عبر Social Listening، كيف أُفعل الخاصية؟
+في Profiles، ما هي الطريقة الأفضل لاكتشاف العملاء المعرّضين لترك الخدمة خلال الشهر القادم؟
+ما الفرق بين إنشاء استبيان قصير لجمع انطباعات سريعة واستبيان تفصيلي للحصول على بيانات معمقة داخل

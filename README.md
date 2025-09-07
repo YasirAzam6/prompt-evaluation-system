@@ -1,4 +1,4 @@
-@# 📘 Custom Themes Classifier – Prototype  
+### 📘 Custom Themes Classifier – Prototype  
 
 This project is a **prototype implementation** of a Custom Themes Classifier.  
 It demonstrates how incoming text (e.g., customer messages, posts, or tickets) can be automatically labeled with **user-defined themes** such as *Real Estate Financing* or *Private Education*.  
